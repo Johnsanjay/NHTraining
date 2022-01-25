@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\bin\Debug\Day 1 project 3 power.exe.config
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\bin\Debug\Day 1 project 3 power.exe
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\bin\Debug\Day 1 project 3 power.pdb
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\obj\Debug\Day 1 project 3 power.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\obj\Debug\Day 1 project 3 power.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\obj\Debug\Day 1 project 3 power.exe
+C:\Users\Intel\source\repos\Day 1 project 3 power\Day 1 project 3 power\obj\Debug\Day 1 project 3 power.pdb

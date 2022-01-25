@@ -1,0 +1,11 @@
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\bin\Debug\Day 1 project 2.exe.config
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\bin\Debug\Day 1 project 2.exe
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\bin\Debug\Day 1 project 2.pdb
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day_1_project_2.Form1.resources
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day_1_project_2.Properties.Resources.resources
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.csproj.GenerateResource.cache
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.exe
+C:\Users\Intel\source\repos\Day 1 project 2\Day 1 project 2\obj\Debug\Day 1 project 2.pdb

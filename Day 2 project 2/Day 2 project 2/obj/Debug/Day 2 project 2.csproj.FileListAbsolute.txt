@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\bin\Debug\Day 2 project 2.exe.config
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\bin\Debug\Day 2 project 2.exe
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\bin\Debug\Day 2 project 2.pdb
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\obj\Debug\Day 2 project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\obj\Debug\Day 2 project 2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\obj\Debug\Day 2 project 2.exe
+C:\Users\Intel\source\repos\Day 2 project 2\Day 2 project 2\obj\Debug\Day 2 project 2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\bin\Debug\Day 1 project 4 power.exe.config
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\bin\Debug\Day 1 project 4 power.exe
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\bin\Debug\Day 1 project 4 power.pdb
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day_1_project_4_power.Form1.resources
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day_1_project_4_power.Properties.Resources.resources
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.csproj.GenerateResource.cache
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.exe
+C:\Users\Intel\source\repos\Day 1 project 4 power\Day 1 project 4 power\obj\Debug\Day 1 project 4 power.pdb
