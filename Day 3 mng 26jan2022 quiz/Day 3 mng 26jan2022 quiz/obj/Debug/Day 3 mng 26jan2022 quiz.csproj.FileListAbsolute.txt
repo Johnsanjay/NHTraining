@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\bin\Debug\Day 3 mng 26jan2022 quiz.exe.config
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\bin\Debug\Day 3 mng 26jan2022 quiz.exe
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\bin\Debug\Day 3 mng 26jan2022 quiz.pdb
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\obj\Debug\Day 3 mng 26jan2022 quiz.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\obj\Debug\Day 3 mng 26jan2022 quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\obj\Debug\Day 3 mng 26jan2022 quiz.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\obj\Debug\Day 3 mng 26jan2022 quiz.exe
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 quiz\Day 3 mng 26jan2022 quiz\obj\Debug\Day 3 mng 26jan2022 quiz.pdb

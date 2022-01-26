@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\bin\Debug\Day 3 mng 26jan2022 project 5.exe.config
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\bin\Debug\Day 3 mng 26jan2022 project 5.exe
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\bin\Debug\Day 3 mng 26jan2022 project 5.pdb
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\obj\Debug\Day 3 mng 26jan2022 project 5.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\obj\Debug\Day 3 mng 26jan2022 project 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\obj\Debug\Day 3 mng 26jan2022 project 5.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\obj\Debug\Day 3 mng 26jan2022 project 5.exe
+C:\Users\Intel\source\repos\Day 3 mng 26jan2022 project 5\Day 3 mng 26jan2022 project 5\obj\Debug\Day 3 mng 26jan2022 project 5.pdb
