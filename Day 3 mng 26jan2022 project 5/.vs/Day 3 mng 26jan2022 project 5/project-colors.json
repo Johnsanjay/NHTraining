@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93dcb01b-5ac5-4ad5-8e7b-758aaf6e1d0a": {
+      "ProjectGuid": "93dcb01b-5ac5-4ad5-8e7b-758aaf6e1d0a",
+      "DisplayName": "Day 3 mng 26jan2022 project 5",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
