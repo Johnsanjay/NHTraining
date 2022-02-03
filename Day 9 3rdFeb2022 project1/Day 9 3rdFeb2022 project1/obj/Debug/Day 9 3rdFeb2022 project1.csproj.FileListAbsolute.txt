@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\bin\Debug\Day 9 3rdFeb2022 project1.exe.config
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\bin\Debug\Day 9 3rdFeb2022 project1.exe
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\bin\Debug\Day 9 3rdFeb2022 project1.pdb
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\obj\Debug\Day 9 3rdFeb2022 project1.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\obj\Debug\Day 9 3rdFeb2022 project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\obj\Debug\Day 9 3rdFeb2022 project1.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\obj\Debug\Day 9 3rdFeb2022 project1.exe
+C:\Users\Intel\source\repos\Day 9 3rdFeb2022 project1\Day 9 3rdFeb2022 project1\obj\Debug\Day 9 3rdFeb2022 project1.pdb

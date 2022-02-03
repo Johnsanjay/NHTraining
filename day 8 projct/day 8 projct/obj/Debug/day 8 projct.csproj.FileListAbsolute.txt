@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\bin\Debug\day 8 projct.exe.config
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\bin\Debug\day 8 projct.exe
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\bin\Debug\day 8 projct.pdb
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\obj\Debug\day 8 projct.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\obj\Debug\day 8 projct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\obj\Debug\day 8 projct.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\obj\Debug\day 8 projct.exe
+C:\Users\Intel\source\repos\day 8 projct\day 8 projct\obj\Debug\day 8 projct.pdb
