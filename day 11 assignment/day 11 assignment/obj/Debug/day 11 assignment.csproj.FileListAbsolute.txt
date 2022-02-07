@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\bin\Debug\day 11 assignment.exe.config
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\bin\Debug\day 11 assignment.exe
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\bin\Debug\day 11 assignment.pdb
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\obj\Debug\day 11 assignment.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\obj\Debug\day 11 assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\obj\Debug\day 11 assignment.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\obj\Debug\day 11 assignment.exe
+C:\Users\Intel\source\repos\day 11 assignment\day 11 assignment\obj\Debug\day 11 assignment.pdb
