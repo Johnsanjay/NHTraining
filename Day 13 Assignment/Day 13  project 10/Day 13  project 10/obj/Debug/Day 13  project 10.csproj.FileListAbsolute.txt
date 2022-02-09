@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\bin\Debug\Day 13  project 10.exe.config
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\bin\Debug\Day 13  project 10.exe
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\bin\Debug\Day 13  project 10.pdb
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\obj\Debug\Day 13  project 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\obj\Debug\Day 13  project 10.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\obj\Debug\Day 13  project 10.exe
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\obj\Debug\Day 13  project 10.pdb
+C:\Users\Intel\source\repos\Day 13 Assignment\Day 13  project 10\Day 13  project 10\obj\Debug\Day 13  project 10.csproj.AssemblyReference.cache

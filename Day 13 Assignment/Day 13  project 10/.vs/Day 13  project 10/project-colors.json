@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4f02661-e8c1-4b7c-9bc3-a3277fc9895b": {
+      "ProjectGuid": "e4f02661-e8c1-4b7c-9bc3-a3277fc9895b",
+      "DisplayName": "Day 13  project 10",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
