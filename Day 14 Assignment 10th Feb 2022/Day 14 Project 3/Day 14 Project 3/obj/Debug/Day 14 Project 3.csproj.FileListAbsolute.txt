@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\bin\Debug\Day 14 Project 3.exe.config
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\bin\Debug\Day 14 Project 3.exe
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\bin\Debug\Day 14 Project 3.pdb
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\obj\Debug\Day 14 Project 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\obj\Debug\Day 14 Project 3.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\obj\Debug\Day 14 Project 3.exe
+C:\Users\Intel\source\repos\Day 14 Assignment 10th Feb 2022\Day 14 Project 3\Day 14 Project 3\obj\Debug\Day 14 Project 3.pdb
