@@ -1,0 +1,8 @@
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\bin\Debug\Day 15 Project 2.exe.config
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\bin\Debug\Day 15 Project 2.exe
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\bin\Debug\Day 15 Project 2.pdb
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\obj\Debug\Day 15 Project 2.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\obj\Debug\Day 15 Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\obj\Debug\Day 15 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\obj\Debug\Day 15 Project 2.exe
+C:\Users\Intel\source\repos\Day 15 Assignment\Day 15 Project 2\Day 15 Project 2\obj\Debug\Day 15 Project 2.pdb
