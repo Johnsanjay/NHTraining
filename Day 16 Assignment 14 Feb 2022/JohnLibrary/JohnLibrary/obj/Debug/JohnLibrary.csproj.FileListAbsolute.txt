@@ -1,0 +1,5 @@
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\JohnLibrary\JohnLibrary\bin\Debug\JohnLibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\JohnLibrary\JohnLibrary\bin\Debug\JohnLibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\JohnLibrary\JohnLibrary\obj\Debug\JohnLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\JohnLibrary\JohnLibrary\obj\Debug\JohnLibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\JohnLibrary\JohnLibrary\obj\Debug\JohnLibrary.pdb

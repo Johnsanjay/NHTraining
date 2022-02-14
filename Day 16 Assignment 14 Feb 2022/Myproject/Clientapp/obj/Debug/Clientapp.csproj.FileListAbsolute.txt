@@ -1,0 +1,13 @@
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Clientapp.exe.config
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Clientapp.exe
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Clientapp.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.exe
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Publiclibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Sanjaylibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Publiclibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\bin\Debug\Sanjaylibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Clientapp\obj\Debug\Clientapp.csproj.CopyComplete

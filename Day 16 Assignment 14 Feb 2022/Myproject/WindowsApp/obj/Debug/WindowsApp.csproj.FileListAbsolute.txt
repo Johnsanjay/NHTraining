@@ -1,0 +1,16 @@
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\Publiclibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\Sanjaylibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\Publiclibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\bin\Debug\Sanjaylibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\WindowsApp\obj\Debug\WindowsApp.pdb

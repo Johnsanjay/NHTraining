@@ -1,0 +1,6 @@
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\bin\Debug\Publiclibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\bin\Debug\Publiclibrary.pdb
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\obj\Debug\Publiclibrary.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\obj\Debug\Publiclibrary.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\obj\Debug\Publiclibrary.dll
+C:\Users\Intel\source\repos\Day 16 Assignment 14 Feb 2022\Myproject\Publiclibrary\obj\Debug\Publiclibrary.pdb
