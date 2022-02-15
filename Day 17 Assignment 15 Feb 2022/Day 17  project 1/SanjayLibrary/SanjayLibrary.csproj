@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DBFB07FA-187F-494A-8231-C1A85F748C25}</ProjectGuid>
+    <ProjectGuid>{69775A3E-F5B9-4F4F-A379-316176BD514A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Sanjaylibrary</RootNamespace>
-    <AssemblyName>Sanjaylibrary</AssemblyName>
+    <RootNamespace>SanjayLibrary</RootNamespace>
+    <AssemblyName>SanjayLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,8 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mathematics2.cs" />
-    <Compile Include="Mathmatics.cs" />
+    <Compile Include="Mybaseclass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

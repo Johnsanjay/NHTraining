@@ -1,0 +1,6 @@
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\bin\Debug\SanjayLibrary.dll
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\bin\Debug\SanjayLibrary.pdb
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\obj\Debug\SanjayLibrary.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\obj\Debug\SanjayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\obj\Debug\SanjayLibrary.dll
+C:\Users\Intel\source\repos\Day 17 Assignment 15 Feb 2022\Day 17  project 1\SanjayLibrary\obj\Debug\SanjayLibrary.pdb

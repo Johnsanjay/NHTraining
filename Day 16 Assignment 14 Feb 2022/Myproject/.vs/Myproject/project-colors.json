@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbfb07fa-187f-494a-8231-c1a85f748c25": {
+      "ProjectGuid": "dbfb07fa-187f-494a-8231-c1a85f748c25",
+      "DisplayName": "Sanjaylibrary",
+      "ColorIndex": 0
+    },
+    "947467f9-d767-4dac-a532-4eca23dd4575": {
+      "ProjectGuid": "947467f9-d767-4dac-a532-4eca23dd4575",
+      "DisplayName": "Publiclibrary",
+      "ColorIndex": 1
+    },
+    "1069da41-3ee3-4ce2-a596-325d65cc96cd": {
+      "ProjectGuid": "1069da41-3ee3-4ce2-a596-325d65cc96cd",
+      "DisplayName": "Clientapp",
+      "ColorIndex": 2
+    },
+    "01a9a95c-9e4b-492f-a1ab-912be8c80cec": {
+      "ProjectGuid": "01a9a95c-9e4b-492f-a1ab-912be8c80cec",
+      "DisplayName": "WindowsApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
