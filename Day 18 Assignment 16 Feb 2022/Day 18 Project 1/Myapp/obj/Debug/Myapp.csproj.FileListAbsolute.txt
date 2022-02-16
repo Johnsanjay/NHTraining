@@ -1,0 +1,14 @@
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\bin\Debug\Myapp.exe.config
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\bin\Debug\Myapp.exe
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\bin\Debug\Myapp.pdb
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\bin\Debug\MathematicsLibrary.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.Form1.resources
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.Properties.Resources.resources
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.csproj.GenerateResource.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.csproj.CopyComplete
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.exe
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\Myapp\obj\Debug\Myapp.pdb

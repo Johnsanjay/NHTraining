@@ -41,8 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyPublicLibraryDerivdClass.cs" />
+    <Compile Include="MyPublicLibraryDerivedClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SanjayLibrary\SanjayLibrary.csproj">
+      <Project>{69775a3e-f5b9-4f4f-a379-316176bd514a}</Project>
+      <Name>SanjayLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

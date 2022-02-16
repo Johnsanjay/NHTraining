@@ -1,0 +1,5 @@
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb

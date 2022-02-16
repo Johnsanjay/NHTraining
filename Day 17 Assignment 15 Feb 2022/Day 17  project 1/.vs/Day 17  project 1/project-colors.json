@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "69775a3e-f5b9-4f4f-a379-316176bd514a": {
+      "ProjectGuid": "69775a3e-f5b9-4f4f-a379-316176bd514a",
+      "DisplayName": "SanjayLibrary",
+      "ColorIndex": 0
+    },
+    "ce39921f-e11a-4bbc-ab65-984c178ae999": {
+      "ProjectGuid": "ce39921f-e11a-4bbc-ab65-984c178ae999",
+      "DisplayName": "Day 17  project 1",
+      "ColorIndex": 1
+    },
+    "1e819623-f3a1-4fc0-bc5c-021de6afc5b9": {
+      "ProjectGuid": "1e819623-f3a1-4fc0-bc5c-021de6afc5b9",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

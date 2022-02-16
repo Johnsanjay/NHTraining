@@ -1,0 +1,17 @@
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\MathematicsLibraryTests.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\MathematicsLibraryTests.pdb
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\MathematicsLibrary.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.CopyComplete
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.dll
+C:\Users\Intel\source\repos\Day 18 Assignment 16 Feb 2022\Day 18 Project 1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.pdb
